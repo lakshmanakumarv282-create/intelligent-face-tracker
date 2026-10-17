@@ -1,0 +1,12 @@
+
+{
+  "video_source": "videos/video_sample1.mp4",
+  "yolo_model": "models/yolov8n-face.pt",
+  "frame_skip": 0,
+  "confidence_threshold": 0.35,
+  "similarity_threshold": 0.45,
+  "max_lost_frames": 30,
+  "database_path": "database/visitors.db",
+  "face_images_dir": "logs/visitor_faces",
+  "events_log": "logs/events.log"
+}
