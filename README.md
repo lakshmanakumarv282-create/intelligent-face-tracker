@@ -284,9 +284,7 @@ Development was performed on a Windows laptop with an NVIDIA GeForce RTX 4050 La
 
 \## Demos
 
-
-
-Add your recorded project demonstration video link here.
+https://www.loom.com/share/a0f631ab205d4e75a1fa31bd11b403da
 
 
 
